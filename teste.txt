@@ -1,0 +1,4 @@
+
+clear
+
+Este é um aquivo de teste.
